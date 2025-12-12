@@ -1,0 +1,8 @@
+# Ignore nested git repos or unwanted folders
+ai-extension/
+
+# Ignore macOS system files
+__MACOSX/
+
+# Ignore zip files
+*.zip
